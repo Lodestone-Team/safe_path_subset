@@ -19,3 +19,5 @@ provides several functions and utility structures to protect against path resolu
 ## License
 
 This code is licensed under [Apache-2.0](../../../LICENSE).
+
+This is a fork which removes some functionality but enables build on Windows
